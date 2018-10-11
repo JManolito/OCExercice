@@ -1,0 +1,1 @@
+Ce projet a pour but de pratiquer et réaliser des tests suite à mon apprentissage sur OC du versionning avec Git.
